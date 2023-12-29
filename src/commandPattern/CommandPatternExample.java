@@ -3,7 +3,7 @@ package commandPattern;
 
 //Command interface
 interface Command {
-	void execute();
+	void execute(); 
 }
 
 
